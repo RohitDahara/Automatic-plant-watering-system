@@ -1,1 +1,2 @@
 # Automatic-plant-watering-system
+<br>Knowing when and how much to water plants are two major important aspects of plant watering. During dayto-day activities many people often forget to water their plants and thus it becomes challenging for them to keep their plants healthy and alive. The project aims to implement a simple system using a soil moisture sensor for watering small potted plants with minimal human intervention.</br>
